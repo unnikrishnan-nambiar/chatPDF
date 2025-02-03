@@ -11,7 +11,7 @@ This project is a **Streamlit-based PDF Chatbot** that leverages **Retrieval-Aug
 ## 📥 Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/pdf-chatbot-rag.git
+   git clone https://github.com/your-username/chatPDF.git
    cd pdf-chatbot-rag
    ```
 2. **Create a virtual environment (Optional but recommended)**
